@@ -1,0 +1,1 @@
+{"version":3,"sources":["/home/sandesh/upgrad/basic_working/upgrad/react-hooks/src/index.css"],"names":[],"mappings":"AAAA,eAEC,0BAA4B,AAC5B,kBAAoB,CACpB","file":"main.f4baeaa4.chunk.css","sourcesContent":["button,\n.button {\n\tmargin-bottom: 0 !important;\n\tmargin-right: .5rem;\n}\n"]}
